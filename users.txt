@@ -1,0 +1,11 @@
+A1	admin	123	tuna	555	tuna@gmail	tuna@gmail
+A2	admin2	323	asd	555	mail	mail
+O1	alic	123	ali	555	ali@gmail	ali@gmail
+O2	velic	123	veli	551	veli@gmail	veli@gmail
+O3	ahmetc	123	ahmet	554	ahmet@mail	ahmet@mail
+O4	test2	asd	deneme2	1231231	test2	test2
+B2	buyer21	password	buyername	5551	buyer2@mail	buyer2@mail
+B3	buyer3	password	buyername	5553	buyer3@mail	buyer3@mail
+B4	buyer4	password	buyername	5552	buyer4@mail	buyer4@mail
+B0	deneme	asd	asd	1235	asd	asd
+B1	buyer1	password	buyername	5554	buyer@mail	buyer@mail

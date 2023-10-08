@@ -1,0 +1,6 @@
+P0	O1	Residential	300	800000	4	3	5	false	false	false	false	Istanbul	Villa
+P1	O2	Residential	200	500000	2	3	4	true	false	true	true	Izmir	Villa
+P2	O1	Residential	200	500000	3	2	4	true	false	true	true	Izmir	Villa
+P3	O2	Residential	300	800000	4	3	5	true	true	true	true	Istanbul	Villa
+P4	O3	Residential	300	800000	4	3	5	true	true	true	true	Istanbul	Villa
+P5	O1	Residential	200	500000	3	2	4	true	false	true	true	Izmir	Villa
